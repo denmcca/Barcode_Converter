@@ -1,9 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package barcodescanner;
+
 import java.awt.Font;
 import java.awt.GridLayout;
 import javax.swing.JFrame;
